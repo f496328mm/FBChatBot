@@ -11,6 +11,7 @@ from FBChatBot import Chatbot2Sql, tem_function, MessageFun
 from FBChatBot.taiwan_train import TaiwanTrainChatDesign
 
 
+
 #-----------------------------------------
 # load chatbot library
 # it will create db.sqlite3

@@ -1928,3 +1928,1094 @@ JavaScript warning: http://railway1.hinet.net/order_search.jsp?person_id=U121726
 1535905614194	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1535905614272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/ccancel.htm"
 1535905614333	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/ccancel.htm"
+1536508702838	geckodriver	INFO	Listening on 127.0.0.1:39157
+1536508703919	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536508704739	Marionette	INFO	Enabled via --marionette
+1536508708128	Marionette	INFO	Listening on port 35685
+1536508708152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536508708219	Marionette	DEBUG	Register listener.js for window 2147483649
+1536508708288	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536508708356	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536508708356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536508708433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536508708523	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536508709543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508710136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508711144	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508711489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508711941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508746629	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536508823265	geckodriver	INFO	Listening on 127.0.0.1:50057
+1536508824335	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536508825127	Marionette	INFO	Enabled via --marionette
+1536508828341	Marionette	INFO	Listening on port 38119
+1536508828363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536508828432	Marionette	DEBUG	Register listener.js for window 2147483649
+1536508828483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536508828544	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536508828545	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536508828612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536508828674	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536508829663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508830160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508830931	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508831250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508831626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508834600	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508839803	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508855394	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508855416	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508855417	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508855441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508855463	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508857067	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508857080	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508857080	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508857093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508857106	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508857148	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508857167	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508857168	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508857198	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508857219	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508858908	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508864110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536508866982	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536508902376	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508902388	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508902389	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508902414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508902428	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508904200	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508904216	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508904216	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508904222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508904239	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508904279	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508904291	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508904292	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508904315	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508904328	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508906271	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508906285	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508906286	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508906294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508906311	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508906347	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508906359	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508906360	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508906381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508906394	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508908456	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508908468	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508908468	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508908474	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508908485	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508908519	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508908532	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508908533	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508908549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508908562	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508910623	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508910634	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508910635	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508910651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508910658	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508910695	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508910706	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508910707	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508910727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508910736	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508913096	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508913108	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508913108	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508913127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508913144	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508913183	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508913197	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508913197	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536508913217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508913232	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508915559	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508916589	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508916590	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536508916636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-11&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=386115&returnTicket=0"
+1536508916663	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-11&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=386115&returnTicket=0"
+[Child 152688, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 152688, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536647241130	geckodriver	INFO	Listening on 127.0.0.1:45471
+1536647242211	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536647243265	Marionette	INFO	Enabled via --marionette
+1536647246443	Marionette	INFO	Listening on port 36783
+1536647246538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536647246605	Marionette	DEBUG	Register listener.js for window 2147483649
+1536647246652	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536647246709	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536647246709	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536647246787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536647246844	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536647247804	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647248390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647249384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647249741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647250187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647253088	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647254130	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647254131	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647254189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-10&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=996613&returnTicket=0"
+1536647254205	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-10&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=996613&returnTicket=0"
+[Child 6795, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6795, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536647391493	geckodriver	INFO	Listening on 127.0.0.1:47007
+1536647392575	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536647393593	Marionette	INFO	Enabled via --marionette
+1536647397021	Marionette	INFO	Listening on port 44587
+1536647397093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536647397170	Marionette	DEBUG	Register listener.js for window 2147483649
+1536647397235	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536647397263	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536647397264	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536647397336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536647397410	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536647398487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647399489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647400088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647400579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647401159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647404229	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647405271	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647405272	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647405318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=100&to_station=051&getin_date=2018/09/22-11&getin_start_dtime=16:00&getin_end_dtime=23:59&order_qty_str=1&train_type=*1&loading_test=0&randInput=09529B&returnTicket=0"
+1536647405334	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=100&to_station=051&getin_date=2018/09/22-11&getin_start_dtime=16:00&getin_end_dtime=23:59&order_qty_str=1&train_type=*1&loading_test=0&randInput=09529B&returnTicket=0"
+[Child 7587, Chrome_ChildThread] WARNING: pipe error (15): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7587, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536647432955	geckodriver	INFO	Listening on 127.0.0.1:54157
+1536647434028	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536647435241	Marionette	INFO	Enabled via --marionette
+1536647438582	Marionette	INFO	Listening on port 43727
+1536647438648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536647438721	Marionette	DEBUG	Register listener.js for window 2147483649
+1536647438774	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536647438819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536647438820	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536647438976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536647438979	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536647440111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647440684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647441661	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647442012	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647442455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536647445597	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647445615	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647445616	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647445624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647445654	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647445701	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647445717	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647445718	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647445742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647445754	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647448709	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647448726	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647448727	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647448733	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647448759	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647448804	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647448818	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647448819	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647448848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647448869	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647451968	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647451995	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647451995	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647452000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647452029	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647452071	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647452086	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647452087	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647452109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647452123	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647455681	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647455696	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647455696	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647455704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647455724	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647455761	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647455779	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647455780	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647455801	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647455814	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647459268	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647459282	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647459283	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647459290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647459312	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647459355	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647459371	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647459372	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647459397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647459419	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647463057	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647463076	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647463076	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647463083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647463104	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647463148	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647463169	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647463170	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647463190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647463204	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647466946	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647466960	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647466960	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647466966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647466982	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647467021	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647467035	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647467036	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536647467054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647467066	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647471427	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647476467	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647476467	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536647476520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-10&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=7593K0&returnTicket=0"
+1536647476532	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-10&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=7593K0&returnTicket=0"
+[Child 7991, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7991, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536679138484	geckodriver	INFO	Listening on 127.0.0.1:34773
+1536679139568	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536679140401	Marionette	INFO	Enabled via --marionette
+1536679143516	Marionette	INFO	Listening on port 34141
+1536679143585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536679143662	Marionette	DEBUG	Register listener.js for window 2147483649
+1536679143717	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536679143762	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536679143762	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536679143919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536679143922	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536679144950	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679145534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679146529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679146882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679147323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679151922	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536679151937	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536679151938	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536679151945	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536679151971	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536679152020	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536679152034	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536679152034	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536679152053	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536679152068	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536679156408	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536679159444	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536679159445	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536679159488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-09&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=693408&returnTicket=0"
+1536679159501	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-09&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=693408&returnTicket=0"
+[Child 115773, Chrome_ChildThread] WARNING: pipe error (18): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 115773, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536679643184	geckodriver	INFO	Listening on 127.0.0.1:57553
+1536679644262	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536679645114	Marionette	INFO	Enabled via --marionette
+1536679648383	Marionette	INFO	Listening on port 37281
+1536679648480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536679648564	Marionette	DEBUG	Register listener.js for window 2147483649
+1536679648622	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536679648676	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536679648676	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536679649039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/TW/etno1.html"
+1536679649047	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/TW/etno1.html"
+1536679650051	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679650626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679651577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679652013	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679652977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679653291	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536679658469	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp?language=zh_TW"
+1536679658491	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp?language=zh_TW"
+1536679658491	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp?language=zh_TW"
+1536679658612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=iTrJPq-881BJsDZWxZCT-5SVocY3Kv8bF9LeJ20tmfmgTU0mR9iC!579501352"
+1536679658616	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=iTrJPq-881BJsDZWxZCT-5SVocY3Kv8bF9LeJ20tmfmgTU0mR9iC!579501352"
+1536679658694	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=iTrJPq-881BJsDZWxZCT-5SVocY3Kv8bF9LeJ20tmfmgTU0mR9iC!579501352"
+1536679658710	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=iTrJPq-881BJsDZWxZCT-5SVocY3Kv8bF9LeJ20tmfmgTU0mR9iC!579501352"
+1536679658711	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=iTrJPq-881BJsDZWxZCT-5SVocY3Kv8bF9LeJ20tmfmgTU0mR9iC!579501352"
+1536679658796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679658808	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679663753	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679663765	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679663766	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679663849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679663852	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679663907	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679663922	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679663924	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679664018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679664024	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679669446	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679669459	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679669459	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679669560	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679669562	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679669614	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679669628	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679669629	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679669713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679669732	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679675016	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679678045	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679678046	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536679678157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536679678159	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+[Child 117691, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 117691, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536716071728	geckodriver	INFO	Listening on 127.0.0.1:44883
+1536716072813	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536716073786	Marionette	INFO	Enabled via --marionette
+1536716077192	Marionette	INFO	Listening on port 40459
+1536716077231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536716077304	Marionette	DEBUG	Register listener.js for window 2147483649
+1536716077368	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536716077406	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536716077407	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536716077484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536716077544	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536716078678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536716079284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536716080301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536716080642	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536716081079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536716086851	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716086870	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716086871	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716086880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716086899	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716086948	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716086961	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716086962	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716086986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716087012	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716092575	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716092589	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716092590	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716092596	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716092616	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716092650	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716092664	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716092664	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716092691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716092713	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716098531	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716098547	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716098548	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716098554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716098583	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716098625	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716098640	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716098641	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716098666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716098681	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716104672	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716104692	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716104692	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716104699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716104715	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716104751	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716104767	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716104767	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536716104796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716104809	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716111072	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716115108	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716115109	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536716115160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-09&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=652536&returnTicket=0"
+1536716115171	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-09&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=652536&returnTicket=0"
+[Child 112014, Chrome_ChildThread] WARNING: pipe error (31): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 112014, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 112014, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536733440124	geckodriver	INFO	Listening on 127.0.0.1:42547
+1536733441198	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536733441982	Marionette	INFO	Enabled via --marionette
+1536733445636	Marionette	INFO	Listening on port 36969
+1536733445715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536733445789	Marionette	DEBUG	Register listener.js for window 2147483649
+1536733445841	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536733445890	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536733445891	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536733445976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/ccancel.htm"
+1536733446019	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/ccancel.htm"
+1536733446126	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/ccancel.htm"
+1536733446763	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/ccancel.htm"
+1536733446764	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/ccancel.htm"
+1536733446773	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/ccancel.jsp"
+1536733446819	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/ccancel.jsp"
+1536733446847	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/ccancel.jsp"
+1536733446866	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/ccancel.jsp"
+1536733446866	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/ccancel.jsp"
+1536733446871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/ccancel_rt.jsp"
+1536733446886	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/ccancel_rt.jsp"
+1536733447028	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///opt/firefox53/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///opt/firefox53/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Child 22163, Chrome_ChildThread] WARNING: pipe error (15): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536733475894	geckodriver	INFO	Listening on 127.0.0.1:37515
+1536733476978	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536733477843	Marionette	INFO	Enabled via --marionette
+1536733481232	Marionette	INFO	Listening on port 43039
+1536733481297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536733481371	Marionette	DEBUG	Register listener.js for window 2147483649
+1536733481430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536733481467	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536733481467	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536733481541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536733481625	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536733482722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733483315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733484315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733484665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733485106	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733491915	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733491933	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733491933	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733491940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733491960	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733492014	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733492039	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733492040	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733492066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733492090	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733498645	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733498660	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733498661	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733498666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733498690	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733498736	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733498755	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733498756	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536733498779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733498793	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733505643	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733506686	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733506687	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733506732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-09&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=429094&returnTicket=0"
+1536733506742	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-09&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=429094&returnTicket=0"
+[Child 22534, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22534, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536733588226	geckodriver	INFO	Listening on 127.0.0.1:46241
+1536733589309	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536733590160	Marionette	INFO	Enabled via --marionette
+1536733593554	Marionette	INFO	Listening on port 40771
+1536733593628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536733593698	Marionette	DEBUG	Register listener.js for window 2147483649
+1536733593762	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536733593807	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536733593808	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536733594043	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/TW/etno1.html"
+1536733594054	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/TW/etno1.html"
+1536733595155	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733595742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733596740	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733597167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733598152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733598463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733605914	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp?language=zh_TW"
+1536733605927	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp?language=zh_TW"
+1536733605928	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp?language=zh_TW"
+1536733606031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=L2rMddNXfPVphvxWGdhegEY_-Vvdx6K3GsAy92V8A8CEYCnX0vNT!1226991747"
+1536733606038	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=L2rMddNXfPVphvxWGdhegEY_-Vvdx6K3GsAy92V8A8CEYCnX0vNT!1226991747"
+1536733606104	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=L2rMddNXfPVphvxWGdhegEY_-Vvdx6K3GsAy92V8A8CEYCnX0vNT!1226991747"
+1536733606125	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=L2rMddNXfPVphvxWGdhegEY_-Vvdx6K3GsAy92V8A8CEYCnX0vNT!1226991747"
+1536733606126	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=L2rMddNXfPVphvxWGdhegEY_-Vvdx6K3GsAy92V8A8CEYCnX0vNT!1226991747"
+1536733606219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733606230	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733613479	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733613496	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733613496	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733613580	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733613583	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733613648	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733613660	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733613661	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733613742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733613751	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733621327	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733621340	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733621340	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733621421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733621423	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733621489	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733621508	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733621510	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733621592	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733621601	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733629278	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733629294	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733629294	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733629390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733629393	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733629455	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733629469	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733629471	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733629557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733629567	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733632070	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536733638082	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733638094	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733638094	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733638197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733638200	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733638262	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733638277	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733638278	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733638363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733638373	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733646530	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733646546	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733646547	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733646638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733646643	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733646717	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733646732	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733646733	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733646812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733646816	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733655293	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733655305	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733655306	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733655399	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733655401	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733655459	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733655472	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733655473	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp"
+1536733655576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733655582	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733664132	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp"
+1536733669336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733804146	geckodriver	INFO	Listening on 127.0.0.1:54841
+1536733805227	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536733806093	Marionette	INFO	Enabled via --marionette
+1536733809796	Marionette	INFO	Listening on port 32921
+1536733809850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536733809921	Marionette	DEBUG	Register listener.js for window 2147483649
+1536733809978	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536733810021	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536733810021	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536733810201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536733810204	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536733811480	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733812057	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733813076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733813439	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733813891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733823094	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733824129	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733824130	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536733824185	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-09&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=0626W6&returnTicket=0"
+1536733824196	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-09&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=0626W6&returnTicket=0"
+[Child 24071, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24071, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536733841704	geckodriver	INFO	Listening on 127.0.0.1:53843
+1536733842783	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536733843584	Marionette	INFO	Enabled via --marionette
+1536733847272	Marionette	INFO	Listening on port 37637
+1536733847301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536733847370	Marionette	DEBUG	Register listener.js for window 2147483649
+1536733847453	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536733847485	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536733847485	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536733847735	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/TW/etno1.html"
+1536733847741	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/TW/etno1.html"
+1536733848882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733849474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733850500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733850929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733851878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733852275	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536733861768	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp?language=zh_TW"
+1536733862831	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp?language=zh_TW"
+1536733862832	Marionette	DEBUG	Received DOM event "unload" for "http://railway.hinet.net/Foreign/common/check_etno1.jsp?language=zh_TW"
+1536733862937	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=8arMebKnh46k_qihgl-AI3tRusS1Wu3veoGf-o2Bo4Zy99mFjbUf!1226991747"
+1536733862939	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway.hinet.net/Foreign/common/eng_order_no1.jsp;jsessionid=8arMebKnh46k_qihgl-AI3tRusS1Wu3veoGf-o2Bo4Zy99mFjbUf!1226991747"
+[Child 24416, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24416, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536760004687	geckodriver	INFO	Listening on 127.0.0.1:43351
+1536760005766	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536760006586	Marionette	INFO	Enabled via --marionette
+1536760009827	Marionette	INFO	Listening on port 32819
+1536760009884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536760009956	Marionette	DEBUG	Register listener.js for window 2147483649
+1536760010016	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536760010067	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536760010068	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536760010201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536760010205	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536760011355	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760011942	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760012841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760013293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760013734	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760023390	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760023404	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760023405	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760023413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760023431	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760023480	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760023495	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760023495	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760023524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760023539	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760032987	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760033001	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760033002	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760033008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760033025	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760033065	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760033084	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760033085	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760033110	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760033132	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760042762	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760047806	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760047807	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760047864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/16-04&getin_start_dtime=14:00&getin_end_dtime=22:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=74U842&returnTicket=0"
+1536760047875	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/16-04&getin_start_dtime=14:00&getin_end_dtime=22:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=74U842&returnTicket=0"
+[Child 120483, Chrome_ChildThread] WARNING: pipe error (17): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 120483, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536760155275	geckodriver	INFO	Listening on 127.0.0.1:49521
+1536760156357	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536760157364	Marionette	INFO	Enabled via --marionette
+1536760161175	Marionette	INFO	Listening on port 45057
+1536760161372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536760161444	Marionette	DEBUG	Register listener.js for window 2147483649
+1536760161491	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536760161528	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536760161528	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536760161656	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536760161660	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536760162849	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760163442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760164438	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760164898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760165425	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760175821	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760181024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 121211, Chrome_ChildThread] WARNING: pipe error (15): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 121211, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536760229853	geckodriver	INFO	Listening on 127.0.0.1:56497
+1536760230933	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536760231867	Marionette	INFO	Enabled via --marionette
+1536760235156	Marionette	INFO	Listening on port 46171
+1536760235273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536760235343	Marionette	DEBUG	Register listener.js for window 2147483649
+1536760235400	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536760235431	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536760235431	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536760235503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536760235579	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536760236760	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760237360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760238359	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760238691	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760239107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760249658	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760249674	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760249675	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760249682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760249711	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760249754	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760249770	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760249771	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760249801	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760249827	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760260290	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760260306	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760260306	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760260312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760260330	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760260367	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760260389	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760260390	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760260411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760260435	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760271103	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760271116	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760271116	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760271126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760271132	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760271169	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760271188	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760271189	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760271216	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760271231	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760273755	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536760282209	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760282224	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760282224	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760282230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760282244	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760282278	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760282291	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760282292	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760282321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760282335	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760293469	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760293480	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760293481	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760293502	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760293510	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760293544	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760293558	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760293559	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760293579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760293601	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760304879	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760307914	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760307916	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760307968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/17-05&getin_start_dtime=02:00&getin_end_dtime=10:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=9B4267&returnTicket=0"
+1536760307980	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/17-05&getin_start_dtime=02:00&getin_end_dtime=10:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=9B4267&returnTicket=0"
+[Child 121745, Chrome_ChildThread] WARNING: pipe error (17): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 121745, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536760361835	geckodriver	INFO	Listening on 127.0.0.1:39849
+1536760362915	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536760363889	Marionette	INFO	Enabled via --marionette
+1536760367215	Marionette	INFO	Listening on port 37417
+1536760367241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536760367319	Marionette	DEBUG	Register listener.js for window 2147483649
+1536760367381	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536760367414	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536760367415	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536760367577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536760367580	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536760368848	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760369440	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760370452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760370816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760371263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760383364	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760383383	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760383383	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760383393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760383412	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760383460	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760383475	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760383476	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760383505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760383529	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760395472	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760395491	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760395492	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760395500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760395516	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760395554	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760395570	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760395571	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760395613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760395627	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760405815	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536760407749	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760407768	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760407768	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760407776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760407793	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760407835	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760407852	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760407853	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760407883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760407894	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760420223	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760421254	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760421255	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760421304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/17-05&getin_start_dtime=05:00&getin_end_dtime=13:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=423680&returnTicket=0"
+1536760421316	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/17-05&getin_start_dtime=05:00&getin_end_dtime=13:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=423680&returnTicket=0"
+[Child 122389, Chrome_ChildThread] WARNING: pipe error (15): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 122389, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536760525222	geckodriver	INFO	Listening on 127.0.0.1:36015
+1536760526300	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536760527111	Marionette	INFO	Enabled via --marionette
+1536760530676	Marionette	INFO	Listening on port 36043
+1536760530727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536760530798	Marionette	DEBUG	Register listener.js for window 2147483649
+1536760530846	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536760530889	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536760530889	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536760531047	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536760531051	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536760532433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760533401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760533971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760534392	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760534903	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536760548080	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760548097	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760548097	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760548103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760548125	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760548176	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760548192	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760548193	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760548218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760548251	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760561124	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760561142	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760561143	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760561149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760561173	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760561217	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760561230	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760561231	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760561248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760561275	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760568947	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536760574585	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760574604	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760574604	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760574612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760574637	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760574680	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760574699	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760574700	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536760574733	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760574756	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760588171	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760591212	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760591213	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536760591261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=100&to_station=051&getin_date=2018/09/18-06&getin_start_dtime=10:00&getin_end_dtime=18:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=020714&returnTicket=0"
+1536760591274	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=100&to_station=051&getin_date=2018/09/18-06&getin_start_dtime=10:00&getin_end_dtime=18:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=020714&returnTicket=0"
+[Child 123162, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536792136555	geckodriver	INFO	Listening on 127.0.0.1:41705
+1536792137631	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536792138638	Marionette	INFO	Enabled via --marionette
+1536792141941	Marionette	INFO	Listening on port 44309
+1536792141950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536792142024	Marionette	DEBUG	Register listener.js for window 2147483649
+1536792142092	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536792142141	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536792142142	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536792142310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536792142321	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536792143725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536792144315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536792145301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536792145664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536792146110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536792160355	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536792164399	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536792164400	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536792164452	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-08&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=821Z35&returnTicket=0"
+1536792164480	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-08&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=821Z35&returnTicket=0"
+[Child 79408, Chrome_ChildThread] WARNING: pipe error (15): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 79408, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536829845192	geckodriver	INFO	Listening on 127.0.0.1:46207
+1536829846273	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536829847107	Marionette	INFO	Enabled via --marionette
+1536829850330	Marionette	INFO	Listening on port 39771
+1536829850391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536829850462	Marionette	DEBUG	Register listener.js for window 2147483649
+1536829850515	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536829850559	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536829850559	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536829850708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536829850711	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536829852219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536829852800	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536829853797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536829854146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536829854576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536829869114	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829869130	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829869131	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829869139	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829869161	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829869205	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829869228	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829869229	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829869255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829869284	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829883390	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829883402	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829883403	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829883410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829883432	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829883477	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829883490	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829883490	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536829883508	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829883522	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829889031	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536829897982	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829899026	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829899027	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536829899081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-08&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=353463&returnTicket=0"
+1536829899095	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-08&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=353463&returnTicket=0"
+[Child 63952, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 63952, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536846874183	geckodriver	INFO	Listening on 127.0.0.1:32847
+1536846875256	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536846876317	Marionette	INFO	Enabled via --marionette
+1536846879535	Marionette	INFO	Listening on port 44273
+1536846879578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536846879648	Marionette	DEBUG	Register listener.js for window 2147483649
+1536846879723	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536846879764	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536846879764	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536846879896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536846879901	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536846881542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536846882139	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536846883128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536846883474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536846883915	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536846899104	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846899119	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846899119	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846899128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846899151	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846899198	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846899221	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846899222	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846899248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846899282	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846914293	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846914309	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846914310	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846914319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846914335	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846914381	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846914398	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846914399	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536846914425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846914439	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846918205	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536846929630	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846931667	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846931668	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536846931714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-08&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=Q49872&returnTicket=0"
+1536846931723	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=051&to_station=100&getin_date=2018/09/21-08&getin_start_dtime=04:00&getin_end_dtime=12:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=Q49872&returnTicket=0"
+[Child 125578, Chrome_ChildThread] WARNING: pipe error (18): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 125578, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536986074391	geckodriver	INFO	Listening on 127.0.0.1:56957
+1536986075470	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536986076382	Marionette	INFO	Enabled via --marionette
+1536986079278	Marionette	INFO	Listening on port 45659
+1536986079303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536986079378	Marionette	DEBUG	Register listener.js for window 2147483649
+1536986079514	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536986079548	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536986079549	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536986079640	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536986079713	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536986081223	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536986082173	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536986082775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536986083260	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536986083827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536986099971	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536986099992	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536986099993	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536986100001	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536986100019	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536986100059	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536986100082	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536986100083	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536986100115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536986100124	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536986115977	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536986118242	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536986121179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 5529, Chrome_ChildThread] WARNING: pipe error (15): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5529, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536988073467	geckodriver	INFO	Listening on 127.0.0.1:59723
+1536988074551	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536988075465	Marionette	INFO	Enabled via --marionette
+1536988078833	Marionette	INFO	Listening on port 46265
+1536988078878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536988078949	Marionette	DEBUG	Register listener.js for window 2147483649
+1536988079003	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536988079037	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536988079037	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536988079213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536988079216	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536988080856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988081707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988082274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988082712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988083205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988099861	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988101895	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988101896	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988101940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=100&to_station=051&getin_date=2018/09/22-07&getin_start_dtime=12:00&getin_end_dtime=20:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=3J0217&returnTicket=0"
+1536988101949	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=100&to_station=051&getin_date=2018/09/22-07&getin_start_dtime=12:00&getin_end_dtime=20:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=3J0217&returnTicket=0"
+[Child 13563, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13563, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536988179242	geckodriver	INFO	Listening on 127.0.0.1:56405
+1536988180321	geckodriver::marionette	INFO	Starting browser /opt/firefox53/firefox with args ["-marionette"]
+1536988181085	Marionette	INFO	Enabled via --marionette
+1536988184787	Marionette	INFO	Listening on port 38181
+1536988184840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536988184911	Marionette	DEBUG	Register listener.js for window 2147483649
+1536988184961	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536988185001	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536988185001	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1536988185133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/csearch.htm"
+1536988185138	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/csearch.htm"
+1536988186664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988187623	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988188210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988188633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988189149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536988206119	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988206133	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988206134	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988206140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988206154	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988206207	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988206225	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988206225	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988206245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988206263	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988222705	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988222723	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988222723	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988222729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988222758	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988222797	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988222814	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988222815	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988222836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988222858	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988223151	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1536988239519	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988239535	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988239536	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988239542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988239563	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988239599	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988239616	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988239617	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988239639	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988239659	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988256768	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988256786	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988256786	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988256792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988256810	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988256857	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988256876	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988256877	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988256905	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988256921	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988274380	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988274395	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988274395	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988274402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988274424	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988274470	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988274491	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988274492	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/wait_order_search.jsp"
+1536988274516	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988274541	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988292124	Marionette	DEBUG	Received DOM event "beforeunload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988293159	Marionette	DEBUG	Received DOM event "pagehide" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988293160	Marionette	DEBUG	Received DOM event "unload" for "http://railway1.hinet.net/check_csearch.jsp"
+1536988293207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=100&to_station=051&getin_date=2018/09/22-07&getin_start_dtime=10:00&getin_end_dtime=18:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=332985&returnTicket=0"
+1536988293444	Marionette	DEBUG	Received DOM event "pageshow" for "http://railway1.hinet.net/order_search.jsp?person_id=U121726696&from_station=100&to_station=051&getin_date=2018/09/22-07&getin_start_dtime=10:00&getin_end_dtime=18:00&order_qty_str=1&train_type=*1&loading_test=0&randInput=332985&returnTicket=0"
+[Child 14267, Chrome_ChildThread] WARNING: pipe error (15): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14267, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

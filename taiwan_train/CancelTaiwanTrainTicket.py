@@ -132,8 +132,13 @@ def ask_for_which_ticket_to_cancel(success_ticket_info,sender_id,recipient_id):
         
 
 def cancel_main(success_ticket_info,sender_id,recipient_id):
+    from selenium.webdriver.firefox.options import Options
+    Firefox_options = Options()
+    Firefox_options.add_argument("--headless")
+    Firefox_options.add_argument("--window-size=1920x1080")
+    driver = webdriver.Firefox(firefox_options=Firefox_options)
     
-    driver = webdriver.Firefox()
+    #driver = webdriver.Firefox()
     driver.get('http://railway.hinet.net/ccancel.htm')
     driver.find_element_by_id("personId").send_keys(success_ticket_info['user_id'][0])
     driver.find_element_by_id("orderCode").send_keys(success_ticket_info['orderCode'][0])

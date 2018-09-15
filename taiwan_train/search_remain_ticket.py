@@ -40,11 +40,13 @@ station_set = ['台東','鹿野','瑞源','關山','池上','富里','東竹','�
 class go2index:
     
     def __init__(self):
+        from selenium.webdriver.firefox.options import Options
+        Firefox_options = Options()
+        Firefox_options.add_argument("--headless")
+        Firefox_options.add_argument("--window-size=1920x1080")
         
-        #self.driver = webdriver.Firefox(executable_path='/usr/local/bin/geckodriver')
-        self.driver = webdriver.Firefox()
-        # webdriver.Firefox()
-        #webdriver.Chrome()
+        self.driver = webdriver.Firefox(firefox_options=Firefox_options)
+        #self.driver = webdriver.Firefox()
 
     def go(self,url):# url = 'http://railway1.hinet.net/csearch.htm'
         self.driver.get(url)
